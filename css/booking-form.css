@@ -1,0 +1,8 @@
+
+
+html.wp-toolbar body.wp-admin div#wpwrap div#wpcontent div#wpbody div#wpbody-content div.wrap p.about-copyright a,
+.wp-admin .about-text a{
+	color: red !important;
+}
+
+
